@@ -1,5 +1,5 @@
 package ArraysAndStrings.Basics;
-
+/* https://codeforces.com/problemset/problem/71/A */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

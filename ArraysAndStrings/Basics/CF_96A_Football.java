@@ -1,5 +1,5 @@
 package ArraysAndStrings.Basics;
-
+/* https://codeforces.com/problemset/problem/96/A */
 import java.util.Scanner;
 
 class CF_96A_Football {
