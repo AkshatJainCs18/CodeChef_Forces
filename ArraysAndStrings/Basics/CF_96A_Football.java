@@ -1,7 +1,7 @@
 package ArraysAndStrings.Basics;
 /* https://codeforces.com/problemset/problem/96/A */
 import java.util.Scanner;
-
+/*My name is akshat jain*/
 class CF_96A_Football {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
